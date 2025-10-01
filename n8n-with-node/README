@@ -1,0 +1,7 @@
+## Install the n8n locally
+
+* Install latest node from https://nodejs.org/en/download
+* `npm install -g n8n`
+* Run `n8n`
+* Open http://localhost:5678 
+
